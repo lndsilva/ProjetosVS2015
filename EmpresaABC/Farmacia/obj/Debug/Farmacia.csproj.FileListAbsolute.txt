@@ -1,0 +1,12 @@
+C:\Users\laercio.nsilva\Documents\ProjetoCSharp\EmpresaABC\Farmacia\bin\Debug\Farmacia.exe.config
+C:\Users\laercio.nsilva\Documents\ProjetoCSharp\EmpresaABC\Farmacia\bin\Debug\Farmacia.exe
+C:\Users\laercio.nsilva\Documents\ProjetoCSharp\EmpresaABC\Farmacia\bin\Debug\Farmacia.pdb
+C:\Users\laercio.nsilva\Documents\ProjetoCSharp\EmpresaABC\Farmacia\obj\Debug\Farmacia.frmDadosPessoais.resources
+C:\Users\laercio.nsilva\Documents\ProjetoCSharp\EmpresaABC\Farmacia\obj\Debug\Farmacia.frmLogin.resources
+C:\Users\laercio.nsilva\Documents\ProjetoCSharp\EmpresaABC\Farmacia\obj\Debug\Farmacia.frmPrincipal.resources
+C:\Users\laercio.nsilva\Documents\ProjetoCSharp\EmpresaABC\Farmacia\obj\Debug\Farmacia.frmTeste.resources
+C:\Users\laercio.nsilva\Documents\ProjetoCSharp\EmpresaABC\Farmacia\obj\Debug\Farmacia.frmTesteVariavel.resources
+C:\Users\laercio.nsilva\Documents\ProjetoCSharp\EmpresaABC\Farmacia\obj\Debug\Farmacia.Properties.Resources.resources
+C:\Users\laercio.nsilva\Documents\ProjetoCSharp\EmpresaABC\Farmacia\obj\Debug\Farmacia.csproj.GenerateResource.Cache
+C:\Users\laercio.nsilva\Documents\ProjetoCSharp\EmpresaABC\Farmacia\obj\Debug\Farmacia.exe
+C:\Users\laercio.nsilva\Documents\ProjetoCSharp\EmpresaABC\Farmacia\obj\Debug\Farmacia.pdb

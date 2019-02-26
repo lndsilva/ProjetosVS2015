@@ -1,0 +1,7 @@
+C:\Users\laercio.nsilva\Documents\ProjetoCSharp\EmpresaABC\frmEstados\bin\Debug\frmEstados.exe.config
+C:\Users\laercio.nsilva\Documents\ProjetoCSharp\EmpresaABC\frmEstados\bin\Debug\frmEstados.exe
+C:\Users\laercio.nsilva\Documents\ProjetoCSharp\EmpresaABC\frmEstados\bin\Debug\frmEstados.pdb
+C:\Users\laercio.nsilva\Documents\ProjetoCSharp\EmpresaABC\frmEstados\obj\Debug\frmEstados.Properties.Resources.resources
+C:\Users\laercio.nsilva\Documents\ProjetoCSharp\EmpresaABC\frmEstados\obj\Debug\frmEstados.csproj.GenerateResource.Cache
+C:\Users\laercio.nsilva\Documents\ProjetoCSharp\EmpresaABC\frmEstados\obj\Debug\frmEstados.exe
+C:\Users\laercio.nsilva\Documents\ProjetoCSharp\EmpresaABC\frmEstados\obj\Debug\frmEstados.pdb

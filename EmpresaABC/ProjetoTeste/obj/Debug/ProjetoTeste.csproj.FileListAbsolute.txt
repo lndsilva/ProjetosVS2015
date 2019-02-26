@@ -1,0 +1,9 @@
+C:\Users\laercio.nsilva\Documents\ProjetoCSharp\EmpresaABC\ProjetoTeste\bin\Debug\ProjetoTeste.exe.config
+C:\Users\laercio.nsilva\Documents\ProjetoCSharp\EmpresaABC\ProjetoTeste\bin\Debug\ProjetoTeste.exe
+C:\Users\laercio.nsilva\Documents\ProjetoCSharp\EmpresaABC\ProjetoTeste\bin\Debug\ProjetoTeste.pdb
+C:\Users\laercio.nsilva\Documents\ProjetoCSharp\EmpresaABC\ProjetoTeste\obj\Debug\ProjetoTeste.csprojResolveAssemblyReference.cache
+C:\Users\laercio.nsilva\Documents\ProjetoCSharp\EmpresaABC\ProjetoTeste\obj\Debug\ProjetoTeste.Properties.Resources.resources
+C:\Users\laercio.nsilva\Documents\ProjetoCSharp\EmpresaABC\ProjetoTeste\obj\Debug\ProjetoTeste.csproj.GenerateResource.Cache
+C:\Users\laercio.nsilva\Documents\ProjetoCSharp\EmpresaABC\ProjetoTeste\obj\Debug\ProjetoTeste.exe
+C:\Users\laercio.nsilva\Documents\ProjetoCSharp\EmpresaABC\ProjetoTeste\obj\Debug\ProjetoTeste.pdb
+C:\Users\laercio.nsilva\Documents\ProjetoCSharp\EmpresaABC\ProjetoTeste\obj\Debug\ProjetoTeste.frmEscolha.resources
